@@ -15,7 +15,7 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/talles-rodrigues-a1a752371/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=inspire&logoColor=white">
   </a>
 </div>
