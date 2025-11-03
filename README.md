@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=037bfc&height=120&section=header"/>
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=037bfc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Talles+Rodrigues;I'am+25+years+old;I+study+Data+Science+and+analytics+at+PUC-RIO;Be+Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=037bfc&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Talles+Rodrigues;I'am+25+years+old;I+study+Data+Science+and+analytics+at+PUC-RIO;Be+Welcome!+:%29)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Otsugua-Talles&show_icons=true&count_private=true&hide_border=true&title_color=037bfc&icon_color=037bfc&text_color=c9d1d9&bg_color=0d1117" alt="Talles Rodrigues github stats"/> 
